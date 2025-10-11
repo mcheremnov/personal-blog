@@ -12,35 +12,6 @@ Lately, I’ve started working on new projects that involve a lot of sysadmin re
 
 Bash (Bourne Again Shell) is the default shell for most Linux distributions and macOS systems. Mastering Bash will dramatically improve your productivity as a developer, system administrator, or power user. This comprehensive guide will take you from basic commands to advanced scripting techniques.
 
-## Table of Contents
-
-1. [Getting Started with Bash](#getting-started-with-bash)
-    
-2. [Essential Commands](#essential-commands)
-    
-3. [File System Navigation](#file-system-navigation)
-    
-4. [Text Processing](#text-processing)
-    
-5. [Variables and Environment](#variables-and-environment)
-    
-6. [Control Structures](#control-structures)
-    
-7. [Functions](#functions)
-    
-8. [I/O and Redirection](#i%5Co-and-redirection)
-    
-9. [Process Management](#process-management)
-    
-10. [Advanced Features](#advanced-features)
-    
-11. [Best Practices](#best-practices)
-    
-12. [Common Pitfalls](#common-pitfalls)
-    
-13. [Conclusion](#conclusion)
-    
-
 ## Getting Started with Bash
 
 ### What is Bash?
