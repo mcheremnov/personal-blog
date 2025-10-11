@@ -1,5 +1,7 @@
 ---
 title: "Mastering Bash: A Complete Guide"
+seoTitle: "Mastering Bash: A Complete Guide"
+seoDescription: "Master Bash with this complete guide, featuring command basics, advanced scripting techniques, and best practices for developers and sysadmins"
 datePublished: Sat Oct 11 2025 12:29:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmgm95tgq000002l1ejx6d3pe
 slug: mastering-bash-a-complete-guide
